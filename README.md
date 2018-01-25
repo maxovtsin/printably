@@ -1,2 +1,2 @@
 # Printably
-Utility for observe property changes in objects
+Utility for observing of property's changes in objects with simple syntax.
